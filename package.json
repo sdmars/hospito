@@ -1,0 +1,19 @@
+{
+  "name": "hospito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot_response.js",
+  "scripts": {
+    "test": "node chatbot_response.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdmars/hospito.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdmars/hospito/issues"
+  },
+  "homepage": "https://github.com/sdmars/hospito#readme"
+}
