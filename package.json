@@ -4,11 +4,11 @@
   "description": "",
   "main": "chatbot_response.js",
   "scripts": {
-    "test": "node chatbot_response.js"
+    "start": "node chatbot_response.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdmars/hospito.git"
+    "url": "git+https://github.com/sdmars/hospito"
   },
   "author": "",
   "license": "ISC",
